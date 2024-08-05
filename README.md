@@ -1,4 +1,4 @@
-# CMDO Project
+# CMDO Project  (This project was a collaborative effort between the group members and me.) 
 
 ## Instructions to run the project
 
